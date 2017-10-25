@@ -1,0 +1,2 @@
+# Rcoin
+New Cryptocurrency
